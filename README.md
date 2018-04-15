@@ -3,7 +3,7 @@ The scripts get urls from Google and soon other search engines.
 
 To run it from terminal : python3 scrapeGoogle_v2.0.py louis+quatorze -n 400
 
-Consider not running the programm too often. A delay of a few hours might be requierd sometimes.
+_Consider not running the programm too often. A delay of a few hours might be requierd sometimes._
 
 If you run the programm to often, you may see the following lines:
 
@@ -19,5 +19,5 @@ You will then need to wait (sometimes a few hours) before re running the script.
 
 
 You may need the following modules :
-fake_useragent   -> (sudo) pip3 install fake_useragent
-termcolor        -> (sudo) pip3 install termcolor
+* fake_useragent   -> (sudo) pip3 install fake_useragent
+* termcolor        -> (sudo) pip3 install termcolor
