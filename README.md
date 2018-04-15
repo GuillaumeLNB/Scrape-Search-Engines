@@ -1,7 +1,7 @@
 # Scrape-Search-Engines
 The scripts get urls from Google and soon other search engines.
 
-To run it from terminal : python3 scrapeGoogle_v2.0.py louis+quatorze -n 400
+To run it from terminal : python3 scrapeGoogle_v2.0.py how+to+get+a+good+job+after+graduation -n 400
 
 _Consider not running the programm too often. A delay of a few hours might be requierd sometimes._
 
