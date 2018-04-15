@@ -9,7 +9,7 @@ You may need the following modules :
 
 _**Consider not running the programm too often. A delay of a few hours might be requierd sometimes**._
 
-If you run the programm to often, you may see the following lines:
+If you run the programm too often, you may see the following lines:
 
 *Our systems have detected unusual traffic from your computer network.  This page checks to see if it&#39;s really you sending the requests, and not a robot.  
 Why did this happen?
