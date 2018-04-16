@@ -22,7 +22,7 @@ Sometimes you may be asked to solve the CAPTCHA if you are using advanced terms 
 You will then need to wait (sometimes a few hours) before re running the script.
 
 If you get the following error : 
-*AttributeError: module 'html5lib.treebuilders' has no attribute '_base'*
+*AttributeError: module 'html5lib.treebuilders' has no attribute '_base'*, 
 You may need to upgrade the bs4 and html5lib modules by running the following commands :
 
 * `(sudo) pip3 install --upgrade beautifulsoup4`
