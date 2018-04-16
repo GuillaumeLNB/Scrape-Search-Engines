@@ -1,7 +1,7 @@
 # Scrape-Search-Engines
 The scripts get urls from Google and soon other search engines.
 
-To run it from terminal : `python3 scrapeGoogle_v2.0.py how+to+get+a+good+job+after+graduation -n 400`
+To run it from terminal : `python3 scrapeGoogle_v2.1.py how+to+get+a+good+job+after+graduation -n 400`
 
 You may need to install the following modules :
 * fake_useragent   -> `(sudo) pip3 install fake_useragent`
